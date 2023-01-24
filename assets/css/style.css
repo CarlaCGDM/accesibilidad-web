@@ -10,6 +10,10 @@
     background: #234634;
 }
 
+.bg-verde-medio{
+    background: #6fb993;
+}
+
 
 .font-verde-claro{
     color: #E8F8F5;
@@ -186,7 +190,7 @@ main{
 .donar-cabecera h1,
 .detalle-cabecera  h1{
     color: #fff;
-    background: #254942;
+    background: #56a394;
 }
 
 .detalle-cabecera  h2, .detalle-cabecera span{
